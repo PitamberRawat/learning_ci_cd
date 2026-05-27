@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>Hello World, this is working fine</h1>
       <p>
-        count is {a}
+        our count is {a}
       </p>
     </>
   )
